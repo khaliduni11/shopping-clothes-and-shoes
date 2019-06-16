@@ -1,0 +1,15 @@
+/node_modules
+/src/token
+/src/store/action/auth.js
+/src/store/action/user.js
+/src/component/authentication
+/src/store/reducer/auth.js
+/src/store/reducer/user.js
+/package.json
+/package-lock.json
+/README.md
+/src/logo.svg
+/public
+/src/serviceWorker.js
+/src/app.test.js
+
