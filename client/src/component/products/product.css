@@ -1,0 +1,40 @@
+/* .card-group{
+    display: grid;
+    justify-content: center;
+} */
+
+#blue{
+    background: blue;
+}
+
+#black{
+    background: black;
+}
+
+#white{
+    background: white;
+}
+
+#grey{
+    background: grey;
+}
+
+#yellow{
+    background: yellow;
+}
+
+#maroon{
+    background: maroon;
+}
+
+#pink{
+    background: pink;
+}
+
+#orange{
+    background: orange;
+}
+
+#purple{
+    background: purple;
+}
