@@ -1,7 +1,5 @@
 /node_modules
-/middleware
-/routes/user.js
 /package.json
 /package-lock.json
-/.env
+
 
